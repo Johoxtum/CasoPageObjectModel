@@ -1,5 +1,1 @@
-<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="1" name="Yo como usuario de PHPTRAVELS" skipped="0" tests="1" time="12.38" timestamp="2021-12-21 09:03:43"><testcase name="Registrar exitosamente el nuevo usuario"><failure message="expected:&lt;[Signup]&gt; but was:&lt;[Login]&gt;" type="java.lang.AssertionError">expected:&lt;[Signup]&gt; but was:&lt;[Login]&gt;</failure><system-err>expected:&lt;[Signup]&gt; but was:&lt;[Login]&gt;&#13;
-steps.RegisterStep.validarFormulario(RegisterStep.java:27)&#13;
-stepdefinitions.PHPTravelsStepdefinitions.seValidaElMensajeDeRegistroExitoso(PHPTravelsStepdefinitions.java:34)&#13;
-✽.Se valida el mensaje de registro exitoso y se verifica el Login(file:///E:/Inteliij/CasoPageObjectModel/src/test/resources/features/registro.feature:9)&#13;
-</system-err></testcase></testsuite>
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="0" name="Yo como usuario de PHPTRAVELS" skipped="0" tests="1" time="12.57" timestamp="2021-12-27 11:12:17"><testcase name="Registrar exitosamente el nuevo usuario"/></testsuite>
